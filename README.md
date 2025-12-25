@@ -18,6 +18,30 @@ This project provides a complete vector search solution for e-commerce product d
 - Interactive web UI for search and data upload
 - Docker-based Qdrant deployment
 
+
+### Demo Videos
+- Dense Image  
+
+
+https://github.com/user-attachments/assets/48a7df0d-e0ef-470c-97ed-3459a1aa158d
+
+
+
+- Dense Text  
+
+
+https://github.com/user-attachments/assets/c81e42d1-1401-450f-9b49-bf8e1e3ea099
+
+
+
+- Dense Text vs Sparse Text  
+
+
+https://github.com/user-attachments/assets/a5f89af8-f739-4624-9a09-ae2d67962c6b
+
+
+
+
 ## Tech Stack
 
 ### Vector Database
